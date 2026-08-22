@@ -1,0 +1,72 @@
+{
+  "Header": {
+    "brand": "🌾 Khushaal FPO",
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "register": "Register",
+    "getStarted": "Get Started"
+  },
+  "Hero": {
+    "title1": "Growing Fresh,",
+    "title2": "Farming Smart 🌱",
+    "subtitle": "Join our community of modern farmers using sustainable techniques to grow better crops and build a healthier future.",
+    "cta": "Register Now"
+  },
+  "About": {
+    "title": "About Us",
+    "desc": "Welcome to Khushaal Honey & Dairy Producers Association, an initiative under the GBDSGNS Foundation, where we are committed to enhancing the livelihoods of rural farmers and fostering sustainable agricultural practices. Our journey began with a simple vision: to support local honey and dairy producers, empowering them through education, better practices, and access to broader markets."
+  },
+  "Services": {
+    "title": "Our Services",
+    "organic": "Organic Farming",
+    "organicDesc": "Chemical-free crop cultivation techniques.",
+    "soil": "Soil Testing",
+    "soilDesc": "Know your soil, grow better crops.",
+    "consulting": "Farm Consulting",
+    "consultingDesc": "Expert guidance for maximum yield."
+  },
+  "Footer": {
+    "tagline": "Sustainable farming solutions for a greener tomorrow.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "Register": {
+    "title": "Register with Us",
+    "subtitle": "Fill the form below to join our farming community.",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "farmName": "Farm Name",
+    "message": "Message",
+    "submit": "Register",
+    "submitting": "Submitting...",
+    "success": "✅ Registration successful! We'll contact you soon.",
+    "errorDuplicate": "This email is already registered.",
+    "errorGeneral": "Something went wrong. Please try again."
+  },
+   "Products": {
+    "title": "Our Products",
+    "viewProduct": "View Product"
+  },
+  "WhyChooseUs": {
+    "title": "Why Choose Us?",
+    "item1Title": "Expert Guidance",
+    "item1Desc": "With years of experience in the honey and dairy industry, we offer expert guidance and practical solutions that cater to the unique needs of our members.",
+    "item2Title": "Access to Global Markets",
+    "item2Desc": "Our association opens doors to local and international markets, providing greater sales opportunities and helping producers grow their businesses.",
+    "item3Title": "Holistic Approach",
+    "item3Desc": "We not only focus on the technical side of honey and dairy production but also emphasize the well-being of farmers and their families, creating a positive impact on their lives.",
+    "item4Title": "Strong Network",
+    "item4Desc": "Our members are part of a supportive network that encourages collaboration, learning, and mutual growth. Being part of the Khushaal Honey & Dairy Producers Association means being part of a larger movement to uplift rural communities."
+  },
+  "ContactUs": {
+    "title": "Connect With Us",
+    "videoTitle": "Watch our story",
+    "watchOnYoutube": "Watch on YouTube",
+    "stopVideo": "Stop video",
+    "followUs": "Follow us on Instagram",
+    "instaImageAlt": "Instagram post {index}"
+  }
+}
